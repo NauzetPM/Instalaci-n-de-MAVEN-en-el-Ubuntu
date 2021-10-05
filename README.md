@@ -1,4 +1,4 @@
-# Instalacion-de-MAVEN-en-el-Ubuntu
+# Instalacion de MAVEN en el Ubuntu
 
 ## ÍNDICE
 
